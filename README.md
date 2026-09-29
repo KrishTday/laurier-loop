@@ -1,4 +1,6 @@
-# Laurier Campus Events App
+# LaurierLoop
+
+**Stay in the loop. Get involved.**
 
 A full-stack events tracker for Wilfrid Laurier students. Surfaces campus events and RSVP deadlines in one place instead of scattered club emails. Students browse events by category or search, see how far off an RSVP deadline is at a glance, and track the ones they care about, with no account required.
 
@@ -19,7 +21,7 @@ https://github.com/user-attachments/assets/360ba211-67a5-46cd-aade-742aa5d86c61
 
 ## Features
 
-Here's what you can do with the Laurier Campus Events App:
+Here's what you can do with LaurierLoop:
 
 - **Browse and Search**: Filter events by category or search across title, description, and location.
 - **RSVP Countdowns**: See how much time is left before an RSVP deadline, with a red highlight once it's within 48 hours.
